@@ -59,7 +59,7 @@ As a front-end engineer, your focus is mainly on the files that load **on the us
 
 My job assisting you with local setup of the app is done! You will speak to our designer next.
 
-  ---
+  ----
 
 </details>
 
